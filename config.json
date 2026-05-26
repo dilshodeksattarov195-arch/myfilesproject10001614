@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "notifyfonnect",
+        "uuid": 15820428,
+        "checksum": "c95yl8"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "production"
+    }
+}
